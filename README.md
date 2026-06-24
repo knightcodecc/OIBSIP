@@ -1,7 +1,7 @@
 # OIBSIP - OASIS INFOBYTE Data Science Internship
 
 **Author**: Pratham Bhat  
-**Repository**: siem-assistant-isro  
+**Repository**: OIBSIP
 **Program**: OASIS INFOBYTE Summer Internship Program (OIBSIP)  
 **Duration**: Data Science Specialization  
 **Status**: Project in Progress (Datasets pending upload)
